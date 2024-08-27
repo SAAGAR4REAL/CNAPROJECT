@@ -14,7 +14,7 @@ The code can be downloaded as a compressed `zip` file from the github web interf
 
 The repository can also be cloned using:
 ```
-git clone https://github.com/BarathKumarBK-15/UDP-Client-Server-Chat-DNS.git
+git clone https://github.com/SAAGAR4REAL/ProjectSAAGAR/tree/2587c636315e1fe226d7d75927ecea29b08bc0c1
 ```
 
 The server program can be deployed locally after extraction by compiling and running the `server.c` file using the sequence of code in the ubuntu terminal:
