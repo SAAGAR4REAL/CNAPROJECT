@@ -1,0 +1,12 @@
+DOWNLOAD UBUNTU ON WINDOWS
+set it up
+prompt it with command to familiarize with your system and intsall updates if needed ---- command -----> sudo apt update
+the last part is only the command 
+this is the initial process to set it up and get your stuff dialed in .... need not be done every time
+since you have the files ready on your computer
+enter the command ----- .\server 
+this establishes the server
+enter the command ----- .\client
+this establishes the client
+keep in mind to open two separate applications of ubuntu for a better view(like in the screenshot(1))
+the text file of the dns is read by the code and can be manipulated with.... get creative
